@@ -1,0 +1,89 @@
+body{
+    background-color: #242038;
+    color: #F7ECE1;
+    margin: 20px 40px;
+    font-family: "Roboto", sans-serif;
+}
+
+#Name{
+    font-family: "Oswald", sans-serif;
+    font-size: 4rem;
+    color: #CAC4CE;
+    margin: 0;
+}
+
+p{
+    font-size: 1.8rem;
+    color: #8D86C9;
+    margin: 4px 0;
+}
+
+section{
+    font-size: 1.8rem;
+    color: #F7ECE1;
+    padding: 8px 0;
+}
+
+.Titles{
+    font-family: "Oswald", sans-serif;
+    font-size: 2.5rem;
+    color: #725AC1;
+    margin: 0 0 8px 0;
+}
+
+ul, ol{
+    margin: 8px 0 0 30px;
+    padding: 0;
+}
+
+li{
+    font-size: 1.6rem;
+    margin: 6px 0;
+}
+
+a{
+    color: #CAB8FF;
+    text-decoration: none;
+    font-size: 1.6rem;
+    transition: color 0.2s ease;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+hr{
+    border: none;
+    border-top: 1px solid antiquewhite;
+    margin: 15px 0;
+}
+
+input{
+    padding: 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+button{
+    padding: 10px 20px;
+    background: #725AC1;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.2s ease;
+}
+
+button:hover{
+    background: #8D86C9;
+}
+
+footer{
+    margin-top: 20px;
+    text-align: center;
+    color: #CAC4CE;
+}
